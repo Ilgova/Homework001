@@ -14,6 +14,5 @@ if (max < number2)
 if (max < number3)
 {
     max = number3;
-
 }
 Console.WriteLine($"Максимальное число из чисел {number1}, {number2}, {number3} равно {max}");
